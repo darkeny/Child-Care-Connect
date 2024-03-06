@@ -1,6 +1,4 @@
-# LFC - Assistance
-
-LFC - Assistance is an Odoo module developed in Python by Robobo Inc. for the Linha Fala Criança App.
+# Child Care Connect
 
 ## System Requirements:
 - Odoo Platform Installed;
